@@ -1,6 +1,6 @@
 
 ## <p style="text-align: center;">ОТЧЕТ</p> <p style="text-align: center;">по домашним заданиям к занятию «Базовые объекты K8S»</p>
-## <p style="text-align: right;">Выполнил: студент Порсев И.С.</p>
+## <p style="text-align: right;">Выполнил: студент ___________.</p>
 
 ### Цель задания
 
